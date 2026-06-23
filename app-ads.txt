@@ -1,4 +1,1 @@
-// ↓SimpleTimer用のAdMobコード
-google.com, pub-2226927710942885, DIRECT, f08c47fec0942fa0
-// ↓Fragments用のAdMobコード
 google.com, pub-2226927710942885, DIRECT, f08c47fec0942fa0
